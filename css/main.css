@@ -1,0 +1,56 @@
+.container{
+	width:1300px;
+}
+.firsthead h2{
+	text-align: center;
+	color: darkblue;
+}
+.firsthead p{
+	text-align: center;
+	margin-top:50px;
+}
+.all{
+	display:flex;
+}
+.all .first{
+	margin-left:150px;
+	padding:60px;
+}
+.all .first p{
+	padding-top:10px;
+}
+.all .second{
+	margin-left:40px;
+	margin-right:20px;
+	padding:40px;
+}
+.all .second p{
+	padding-top:10px;
+}
+.allboxes{
+	padding:20px;
+	margin-left:70px;
+	width:1400px;
+}
+.allboxes .firstfour{
+	display:flex;
+	filter: grayscale(1);
+}
+.allboxes .secondfour{
+	display:flex;
+	filter: grayscale(1);
+}
+.firstfour img{
+	width:12%;
+	height:35px;
+	padding:70px;
+	border: solid 1px;
+	border-color: #a69c9c;
+}
+.secondfour img{
+	width:12%;
+	height:35px;
+	padding:70px;
+	border: solid 1px;
+    border-color: #a69c9c;
+}
