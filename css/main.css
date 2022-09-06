@@ -54,3 +54,163 @@
 	border: solid 1px;
     border-color: #a69c9c;
 }
+
+.allcontact h2{
+	text-align:center;
+	color:darkblue;
+}
+.allcontact p{
+    text-align:center;
+}
+.all-cont .add-cont{
+	box-shadow:12px 12px 12px #e5def4; 
+}
+.othr .other-cont{
+	box-shadow:12px 12px 12px #e5def4; 
+}
+.othr .other-cont2{
+	box-shadow:12px 12px 12px #e5def4; 
+}
+.all-cont{
+	display:flex;
+	width:100%;
+	box-shadow:12px 12px 12px #e5def4; 
+}
+.all-cont .icon-cont{
+	margin-left:210px;
+	color:blue;
+	margin-top:20px;
+}
+.contact-first{
+	margin-left:150px;
+	width:75%;
+}
+.contact-first{
+	margin-top:20px;
+}
+.contact-first h3,p{
+	text-align:center;
+}
+.contact-first .add-cont{
+	height:100px;
+}
+.contact-first .othr{
+	display:flex;
+	width:100%;
+	height:170px;
+}
+.othr .icon-font2{
+	margin-left:100px;
+	margin-top:20px;
+	color:blue;
+	font-size:25px;
+}
+.othr .icon-cont3{
+	margin-left:100px;
+	margin-top:30px;
+	color:blue;
+	font-size:23px;
+}
+.othr .other-cont{
+	width:50%;
+}
+.othr .other-cont2{
+	margin-left:20px;
+	width:50%;
+}
+.contact-second{
+	margin-left:100px;
+	width:100%;
+}
+.contact-second .labs{
+	display:flex;
+	padding:20px;
+	width:50%;
+	padding:40px;
+}
+.contact-second .lab1{
+	width:100%;
+	margin:10px;
+}
+.lab2{
+	width:100%;
+	height:60px;
+	margin-left:45px;
+}
+.contact-second .lab3{
+	margin-left:37px;
+	color:blue;
+}
+.contact-second .lab5{
+	padding:20px;
+	margin-left:20px;
+	width:100%
+}
+.contact-second .lab3{
+	margin-left:200px;
+}
+.lab3 button{
+	border-color: #098cf7;
+	color:white;
+	background:#098cf7;
+	border-radius:5px;
+	width:130px;
+	height:40px;
+}
+input{
+height:25px;	
+	
+}
+
+.allabout{
+	display:flex;
+	margin-top:30px;
+	margin-left:40px;
+	background-color: #295668;
+	color:white;
+	padding:40px;
+}
+.about-head p{
+	text-align:left;
+}
+.about-first p{
+	text-align:left;
+	margin-top:20px;
+}
+.about-head .about-btn{
+	color:white;
+	background-color: #295668;
+}
+button{
+	border-radius:10px;
+	border:none;
+	padding:5px;
+	width:100px;
+	background-color: #719cbb;
+	color:white;
+	margin-top:20px;
+}
+.about-second p{
+	text-align:left;
+}
+.about-right{
+	display:flex;
+	margin-left:40px;
+	padding:20px;
+	padding-top:10px;
+}
+.about-img{
+	padding-left:20px;
+	padding-right:20px;
+	margin-left:20px;
+}
+.about-img img{
+	height:55px;
+	width:9.16%;
+	justify-content:space-evenly;
+	margin-top:20px;
+	padding:40px;
+}
+.about-right .about-icon{
+	font-size:30px;
+}
